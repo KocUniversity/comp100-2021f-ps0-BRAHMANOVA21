@@ -1,0 +1,30 @@
+[[package]]
+name = "numpy266165"
+version = "1.0.789"
+description = "Handling links"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pylab-sdk"
+version = "1.3.2"
+description = "A development kit that collects simple utilities."
+category = "main"
+optional = false
+python-versions = ">=3"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "949749c3b1df5fc605d9cb1244d9e878a6c60cd9cbe58d45e43361ca16cd9148"
+
+[metadata.files]
+numpy266165 = [
+    {file = "numpy266165-1.0.789-py3-none-any.whl", hash = "sha256:7ea445c31f2e59082af1639dcd8c8fbc1c715b8dc79294bef0b6f2937a22e515"},
+    {file = "numpy266165-1.0.789.tar.gz", hash = "sha256:b22a071a47bbcabf6a4babc107e41e1945e95a78006695d402b4757d30d2fcb1"},
+]
+pylab-sdk = [
+    {file = "pylab-sdk-1.3.2.tar.gz", hash = "sha256:ea53e97fec45ea15f65bd53da6b25dc16a9accf3a7f5decbaa970592d760148d"},
+    {file = "pylab_sdk-1.3.2-py3-none-any.whl", hash = "sha256:a6784769f3cb4626f732ff22f0ad88a470c4ab294e1c52f82f5167bc27f9be46"},
+]
